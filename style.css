@@ -1,0 +1,21 @@
+.card-header {
+    font-family: 'Lato', sans-serif;
+}
+.nav-link {
+    color: black;
+}
+body {
+    background-image: url(https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png);
+}
+#bmwPic {
+    height: 516px;
+    width: 2000px;
+}
+#espressoPic {
+    height: 516px;
+    width: 2000px;
+}
+#belgradePic {
+    height: 516px;
+    width: 2000px;
+}
